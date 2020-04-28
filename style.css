@@ -1,0 +1,26 @@
+body{
+	background-color: #b9ebcc;
+
+}
+
+.FONT{
+	margin-left: 40px;
+	color: #4d3e3e;
+	font-family: Copperplate;
+	
+}
+.field{
+	color: #100303;
+	margin-left: 40px;
+}
+.field1{
+	color: #100303;
+	margin-left: 25px;
+}
+.border{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #dae1e7;
+	border-width: 5px;
+	width: 10%;
+}
